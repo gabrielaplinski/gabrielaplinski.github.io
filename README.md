@@ -64,4 +64,3 @@ Estou aberta a parcerias, freelas e contribuições open source!
 ---
 
 > "Não é sobre saber tudo, é sobre nunca parar de aprender."  
-> (E se tiver um gato do lado, fica melhor ainda 🐱)
