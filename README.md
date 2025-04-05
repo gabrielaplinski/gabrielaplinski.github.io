@@ -24,7 +24,7 @@ Estudante de desenvolvimento web, aprendendo a transformar ideias em sites com H
 
 ## 🚧 Projetos de estudo
 
-> Aqui estão alguns dos projetos que estou desenvolvendo enquanto aprendo. Estou sempre melhorando eles e aplicando coisas novas que estudo!
+> Aqui estão alguns dos projetos que estou desenvolvendo enquanto aprendo:
 
 ### 🔗 Projeto Android - Curso em Vídeo (https://gabrielaplinski.github.io/projeto-android)
 > Mini Projeto do Curso em Vídeo para o curso de HTML5/CSS3.  
@@ -50,7 +50,7 @@ Estudante de desenvolvimento web, aprendendo a transformar ideias em sites com H
 
 ## 🤝 Vamos colaborar?
 
-Se você tem um projeto legal, uma ideia maluca ou só quer conversar sobre desenvolvimento (ou gatos, sempre aceito), me chama!  
+Se você tem um projeto legal, alguma ideia em mente ou só quer conversar sobre desenvolvimento (ou gatos, sempre aceito), me chama!  
 Estou aberta a parcerias, freelas e contribuições open source!
 
 ---
@@ -63,5 +63,5 @@ Estou aberta a parcerias, freelas e contribuições open source!
 
 ---
 
-> "Não é sobre saber tudo, é sobre nunca parar de aprender." 🚀  
+> "Não é sobre saber tudo, é sobre nunca parar de aprender."  
 > (E se tiver um gato do lado, fica melhor ainda 🐱)
