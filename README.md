@@ -62,9 +62,7 @@ Estou aberta a parcerias, freelas e contribuições open source!
 
 ---
 
-> "Não é sobre saber tudo, é sobre nunca parar de aprender." 🚀  
+> "Não é sobre saber tudo, é sobre nunca parar de aprender."  
 <<<<<<< HEAD
 > (E se tiver um gato do lado, fica melhor ainda 🐱)
 =======
-> (E se tiver um gato do lado, fica melhor ainda 🐱)
->>>>>>> 66645cb2bd5c924a9276a612069e10837b292562
