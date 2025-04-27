@@ -26,17 +26,17 @@ Estudante de desenvolvimento web, aprendendo a transformar ideias em sites com H
 
 > Aqui estão alguns dos projetos que estou desenvolvendo enquanto aprendo:
 
-### 🔗 Projeto Android - Curso em Vídeo (https://gabrielaplinski.github.io/projeto-android)
-> Mini Projeto do Curso em Vídeo para o curso de HTML5/CSS3.  
+### 🔗 Projeto Sign In (https://gabrielaplinski.github.io/projeto-login)
+> Projeto tela de tela de login adaptável para diferentes tamanhos de tela.  
 > 🛠️ **Stack:** HTML5, CSS3  
-> ✨ Destaques: menu, responsividade de vídeos externos  
+> ✨ Destaques: mobile first, responsividade com media queries e formulários.  
 
 ---
 
 ### 🔗 Projeto Cordel (https://gabrielaplinski.github.io/projeto-cordel)
 > Mini Projeto do Curso em Vídeo com adaptações.  
 > 🛠️ **Stack:** HTML5, CSS3   
-> 🧩 Funcionalidades: efeito parallax, responsividade  
+> 🧩 Funcionalidades: efeito parallax, responsividade.
 
 ---
 
