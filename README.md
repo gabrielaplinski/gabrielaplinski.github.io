@@ -1,18 +1,17 @@
-# 👩‍💻 Gabriela Plinski  
-Estudante de desenvolvimento web, aprendendo a transformar ideias em sites com HTML, CSS e JavaScript 🌱💻
+# Hello World!  
+Sou Gabriela Plinski, estudante de desenvolvimento web! Aprendendo a transformar ideias em sites 🌱💻
 
 ---
 
 ## ✨ Sobre mim
 
-- 📚 Atualmente estudando **HTML5, CSS3 e JavaScript**
-- 🎯 Focada em aprender desenvolvimento web com projetos práticos
-- 🎨 Apaixonada por criar interfaces acessíveis, responsivas e com uma pitada de personalidade 😄
-- 😸 Gosto de gatos, plantas e código bem identado
+- Atualmente estudando **HTML5, CSS3 e JavaScript**
+- Focada em criar interfaces acessíveis, responsivas e com personalidade
+- Gosto de gatos, plantas e código bem identado!
 
 ---
 
-## 🛠️ Minhas ferramentas
+## Minhas ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -22,7 +21,7 @@ Estudante de desenvolvimento web, aprendendo a transformar ideias em sites com H
 
 ---
 
-## 🚧 Projetos de estudo
+## Projetos de estudo
 
 > Aqui estão alguns dos projetos que estou desenvolvendo enquanto aprendo:
 
@@ -40,7 +39,7 @@ Estudante de desenvolvimento web, aprendendo a transformar ideias em sites com H
 
 ---
 
-## 📚 Estudando atualmente
+## Estudando atualmente
 
 - CSS Flexbox e Grid
 - JavaScript
